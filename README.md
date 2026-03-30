@@ -7,5 +7,7 @@ https://www.google.com/search?q=bash+cat+eol+indentation
 
 https://stackoverflow.com/questions/55699662/cat-eof-issues-with-indentation
 
-# Works:
+# Cat EOL
+https://jinnabaalu.medium.com/create-a-file-in-bash-using-eof-af5af33c0d1f
+
 https://stackoverflow.com/questions/7875540/how-to-write-multiple-line-string-using-bash-with-variables
